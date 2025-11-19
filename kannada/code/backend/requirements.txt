@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+# If using Google STT uncomment below and configure credentials
+# google-cloud-speech

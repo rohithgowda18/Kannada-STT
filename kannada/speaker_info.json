@@ -1,0 +1,14 @@
+{
+  "team_name": "YourTeamName",
+  "student_name": "Your Name",
+  "age": 20,
+  "gender": "Male",
+  "native_kannada_speaker": true,
+  "home_region": "Mandya",
+  "dialect_used": "Mysore Kannada",
+  "is_dialect_recording_included": false,
+  "recording_device": "Phone model here",
+  "recording_environment": "Quiet room at home",
+  "speech_to_text_tool_used": "Google Cloud Speech-to-Text API",
+  "date_of_recording": "2025-11-18"
+}
